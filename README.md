@@ -28,6 +28,8 @@
 
 ##
 
+![Snake animation](https://github.com/Ojuara2/Ojuara2/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
